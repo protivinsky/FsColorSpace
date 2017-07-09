@@ -9,4 +9,4 @@ The library shows several examples, for instance how to reproduce exactly the sa
 
 Examples of the color palettes generated via this library:
 
-[color palette examples](examples.png)
+![color palette examples](examples.png)
