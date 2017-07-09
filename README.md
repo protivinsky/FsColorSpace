@@ -6,3 +6,7 @@ The standard RGB color space is not suitable for generating perceptually pleasan
 It contains functions for converting CIE LCH color space (where L stands for luminance, C for chroma and H for hue) to RGB and presents several functions for generating qualitative, sequential and diverging color palettes. Default setting for qualitative palettes mimicks R ggplot2 package colors and sequential and diverging palettes correspond to similar functions in R colorspace package.
 
 The library shows several examples, for instance how to reproduce exactly the same palettes as are in article about hcl-colors in R - https://cran.r-project.org/web/packages/colorspace/vignettes/hcl-colors.pdf.
+
+Examples of the color palettes generated via this library:
+
+[color palette examples](examples.png)
