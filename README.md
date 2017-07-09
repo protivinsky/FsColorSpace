@@ -7,6 +7,6 @@ It contains functions for converting CIE LCH color space (where L stands for lum
 
 The library shows several examples, for instance how to reproduce exactly the same palettes as are in article about hcl-colors in R - https://cran.r-project.org/web/packages/colorspace/vignettes/hcl-colors.pdf.
 
-Examples of the color palettes generated via this library:
+Example of color palettes generated via this library:
 
-![color palette examples](examples.png)
+![example of color palettes](examples.png)
